@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lucas/github/TarefasApi/TarefasApi.csproj": {}
+    "/home/lucas/github/tarefas-api-dotnet6/TarefasApi.csproj": {}
   },
   "projects": {
-    "/home/lucas/github/TarefasApi/TarefasApi.csproj": {
+    "/home/lucas/github/tarefas-api-dotnet6/TarefasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/github/TarefasApi/TarefasApi.csproj",
+        "projectUniqueName": "/home/lucas/github/tarefas-api-dotnet6/TarefasApi.csproj",
         "projectName": "TarefasApi",
-        "projectPath": "/home/lucas/github/TarefasApi/TarefasApi.csproj",
+        "projectPath": "/home/lucas/github/tarefas-api-dotnet6/TarefasApi.csproj",
         "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/github/TarefasApi/obj/",
+        "outputPath": "/home/lucas/github/tarefas-api-dotnet6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lucas/.nuget/NuGet/NuGet.Config"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     }

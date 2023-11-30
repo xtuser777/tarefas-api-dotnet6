@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tklxdMwTIN2PawmhqOPbd1YDsxVlvhyl1V5aYbVDpM/KRMJPvTBmCqkVap/CzyA0/+vjsfc8W0vOq6dLdovXg==",
+  "dgSpecHash": "5F1lta1yQZfvcyRWYU61X8WlNCbJ+siy7iUJKemKs0MgGIOVvKSn7Wz1A/X6CJYwP7DRgaAgZaslE8L4PL5i1g==",
   "success": true,
-  "projectFilePath": "/home/lucas/github/TarefasApi/TarefasApi.csproj",
+  "projectFilePath": "/home/lucas/github/tarefas-api-dotnet6/TarefasApi.csproj",
   "expectedPackageFiles": [
     "/home/lucas/.nuget/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
     "/home/lucas/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
